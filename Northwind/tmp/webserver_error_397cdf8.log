@@ -1,0 +1,11 @@
+[Thu Jan 11 09:25:43.514454 2024] [core:warn] [pid 8556:tid 440] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Northwind/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::dda0:b2f3:e736:9bb6. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 11 09:25:44.380140 2024] [mpm_winnt:notice] [pid 8556:tid 440] AH00455: Apache/2.4.54 (Win64) PHP/7.4.30 configured -- resuming normal operations
+[Thu Jan 11 09:25:44.380140 2024] [mpm_winnt:notice] [pid 8556:tid 440] AH00456: Server built: Jul 26 2022 23:58:26
+[Thu Jan 11 09:25:44.380861 2024] [core:notice] [pid 8556:tid 440] AH00094: Command line: 'C:\\Program Files\\PHPRunner10.91\\EmbeddedServer64\\bin\\httpd.exe -d C:/Program Files/PHPRunner10.91/EmbeddedServer64 -d C:\\Program Files\\PHPRunner10.91\\EmbeddedServer64 -f C:\\Projects\\Northwind\\tmp\\webserver.conf'
+[Thu Jan 11 09:25:44.383862 2024] [mpm_winnt:notice] [pid 8556:tid 440] AH00418: Parent: Created child process 1644
+[Thu Jan 11 09:25:44.877838 2024] [core:warn] [pid 1644:tid 464] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Northwind/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::dda0:b2f3:e736:9bb6. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 11 09:25:44.899838 2024] [core:warn] [pid 1644:tid 464] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Northwind/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::dda0:b2f3:e736:9bb6. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 11 09:25:44.937319 2024] [mpm_winnt:notice] [pid 1644:tid 464] AH00354: Child: Starting 64 worker threads.
