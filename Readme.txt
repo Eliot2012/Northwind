@@ -1,0 +1,3 @@
+This project is a product system, where it works with a CRUD, and specific events, it adds, saves, edits and deletes any user, product, employee, supplier, order, order detail, shipper, customer and categories.
+It has an interesting event which is that every time a user uploads an image, either for a product or for an employee, before it is uploaded, it is first scanned to verify that it does not have a virus or any type of threat, it works through an api that allows us to use its scanner for this purpose.
+Another event that I have implemented, is that the users that are not administrators, cannot see the products that are inactive.
